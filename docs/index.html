@@ -1,0 +1,45 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <meta name="theme-color" content="#0b315e" />
+  <meta name="description" content="Control Bionics Support & Learning Hub for AAC and NeuroStrip." />
+  <title>Neuroverse | Control Bionics Support & Learning Hub</title>
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+  <a class="skip-link" href="#app">Skip to content</a>
+  <header class="site-header">
+    <a class="brand" href="#/" aria-label="Neuroverse home">
+      <img src="assets/images/control-bionics-logo.png" alt="Control Bionics" />
+      <span><strong>Neuroverse</strong><small>Support & Learning Hub</small></span>
+    </a>
+    <button id="menuBtn" class="menu-btn" aria-label="Open navigation">☰</button>
+    <nav id="mainNav" class="main-nav" aria-label="Main navigation">
+      <a href="#/">Home</a><a href="#/aac">AAC</a><a href="#/neurostrip">NeuroStrip</a><a href="#/academy">EMG Academy</a><a href="#/resources">Resources</a><a href="#/support">Support</a>
+    </nav>
+    <button id="searchOpen" class="search-open" aria-label="Search">⌕</button>
+  </header>
+  <main id="app" tabindex="-1"></main>
+  <footer class="site-footer">
+    <div><img src="assets/images/control-bionics-logo.png" alt="" /><strong>Control Bionics</strong><span>Technology for a more inclusive world</span></div>
+    <div class="footer-links"><a href="#/support">Support</a><a href="#/resources">Resources</a><a href="admin.html">Admin</a></div>
+  </footer>
+
+  <dialog id="searchDialog" class="search-dialog">
+    <form method="dialog" class="search-head"><strong>Search Neuroverse</strong><button aria-label="Close">×</button></form>
+    <label class="search-field"><span>Search guides, FAQs and resources</span><input id="globalSearch" type="search" placeholder="Try “NeuroNode won't connect” or “skin prep”" autocomplete="off" /></label>
+    <div id="searchResults" class="search-results"></div>
+  </dialog>
+
+  <dialog id="imageDialog" class="image-dialog">
+    <form method="dialog"><button aria-label="Close image">×</button></form>
+    <img id="imageDialogImg" alt="" />
+    <a id="imageDialogLink" target="_blank" rel="noopener">Open image in new tab ↗</a>
+  </dialog>
+
+  <script src="config/runtime-config.js"></script>
+  <script type="module" src="src/app.js"></script>
+</body>
+</html>
