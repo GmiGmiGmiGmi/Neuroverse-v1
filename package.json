@@ -1,0 +1,9 @@
+{
+  "name": "neuroverse-support-hub",
+  "private": true,
+  "version": "5.0.0",
+  "scripts": {
+    "build": "node scripts/generate-runtime-config.mjs",
+    "preview": "python3 -m http.server 8000 -d docs"
+  }
+}
