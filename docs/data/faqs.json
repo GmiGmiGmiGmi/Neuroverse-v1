@@ -1,0 +1,189 @@
+[
+  {
+    "id": "faq-neuronode-why-won-t-my-neuronode-connect",
+    "product": "NeuroNode",
+    "category": "Connection",
+    "question": "Why won’t my NeuroNode connect?",
+    "answer": "Confirm Bluetooth is on, Shake to Wake the NeuroNode, reopen the Controller App and try Connect to NeuroNode. If it still fails, use the Bluetooth reset guide.",
+    "related_route": "#/aac/neuronode/help",
+    "keywords": [],
+    "status": "published",
+    "sort_order": 1
+  },
+  {
+    "id": "faq-neuronode-neuronode-does-not-appear-in-bluetooth",
+    "product": "NeuroNode",
+    "category": "Connection",
+    "question": "NeuroNode does not appear in Bluetooth",
+    "answer": "Shake to Wake first. If it was previously paired to another device, remove/forget the old pairing before reconnecting.",
+    "related_route": "#/aac/neuronode/help",
+    "keywords": [],
+    "status": "published",
+    "sort_order": 2
+  },
+  {
+    "id": "faq-neuronode-why-am-i-getting-a-weak-or-inconsistent-signal",
+    "product": "NeuroNode",
+    "category": "Signal",
+    "question": "Why am I getting a weak or inconsistent signal?",
+    "answer": "Check placement and orientation, skin/electrode contact, and whether the selected muscle can produce a clear repeatable activation.",
+    "related_route": "#/aac/neuronode/emg",
+    "keywords": [],
+    "status": "published",
+    "sort_order": 3
+  },
+  {
+    "id": "faq-neuronode-what-do-the-neuronode-indicator-colours-mean",
+    "product": "NeuroNode",
+    "category": "Signal",
+    "question": "What do the NeuroNode indicator colours mean?",
+    "answer": "Blue means searching for Bluetooth, green indicates a counted switch, yellow indicates low battery and red indicates an error state.",
+    "related_route": "#/aac/neuronode/help",
+    "keywords": [],
+    "status": "published",
+    "sort_order": 4
+  },
+  {
+    "id": "faq-neuronode-how-do-i-charge-neuronode",
+    "product": "NeuroNode",
+    "category": "Charging",
+    "question": "How do I charge NeuroNode?",
+    "answer": "Place NeuroNode correctly on its charging plate and connect the charging plate to power.",
+    "related_route": "#/aac/neuronode/get-started",
+    "keywords": [],
+    "status": "published",
+    "sort_order": 5
+  },
+  {
+    "id": "faq-neuronode-neuronode-works-but-grid-3-does-not-respond",
+    "product": "NeuroNode",
+    "category": "Grid 3",
+    "question": "NeuroNode works but Grid 3 does not respond",
+    "answer": "In Grid 3 go to Settings → Access → Switches → Connection → Change Key, then activate NeuroNode and save the detected key.",
+    "related_route": "#/aac/neuronode/grid3",
+    "keywords": [],
+    "status": "published",
+    "sort_order": 6
+  },
+  {
+    "id": "faq-neuronode-how-do-i-reset-bluetooth-scrub-neuronode",
+    "product": "NeuroNode",
+    "category": "Reset",
+    "question": "How do I reset / Bluetooth scrub NeuroNode?",
+    "answer": "Use the Controller App scrub method when available. The manual pin method is an advanced recovery option and should be followed carefully.",
+    "related_route": "#/aac/neuronode/help",
+    "keywords": [],
+    "status": "published",
+    "sort_order": 7
+  },
+  {
+    "id": "faq-eyegaze-eye-tracking-is-inaccurate",
+    "product": "EyeGaze",
+    "category": "Positioning",
+    "question": "Eye tracking is inaccurate",
+    "answer": "Position the user approximately 45–60 cm from the display and keep the top of the screen around eye level before recalibrating.",
+    "related_route": "#/aac/eyegaze-duo/positioning",
+    "keywords": [],
+    "status": "published",
+    "sort_order": 8
+  },
+  {
+    "id": "faq-eyegaze-eyegaze-camera-is-not-detected",
+    "product": "EyeGaze",
+    "category": "Connection",
+    "question": "EyeGaze camera is not detected",
+    "answer": "Check both ends of the USB cable and confirm the camera is connected to the correct USB port/hub.",
+    "related_route": "#/aac/eyegaze-duo/help",
+    "keywords": [],
+    "status": "published",
+    "sort_order": 9
+  },
+  {
+    "id": "faq-eyegaze-calibration-keeps-failing",
+    "product": "EyeGaze",
+    "category": "Calibration",
+    "question": "Calibration keeps failing",
+    "answer": "Recheck position, lighting, user visibility and camera connection. Use the camera calibration software again after positioning is corrected.",
+    "related_route": "#/aac/eyegaze-duo/positioning",
+    "keywords": [],
+    "status": "published",
+    "sort_order": 10
+  },
+  {
+    "id": "faq-uno-touch-grid-3-does-not-open",
+    "product": "UNO Touch",
+    "category": "Startup",
+    "question": "Grid 3 does not open",
+    "answer": "On Windows, open Grid 3 manually if it does not launch automatically. On iOS, open Grid for iPad or the intended communication app.",
+    "related_route": "#/aac/uno-touch",
+    "keywords": [],
+    "status": "published",
+    "sort_order": 11
+  },
+  {
+    "id": "faq-uno-touch-bluetooth-speaker-is-not-working",
+    "product": "UNO Touch",
+    "category": "Audio",
+    "question": "Bluetooth speaker is not working",
+    "answer": "Confirm the speaker is powered on using the Play/Pause button and is connected in Bluetooth settings if required.",
+    "related_route": "#/aac/uno-touch/help",
+    "keywords": [],
+    "status": "published",
+    "sort_order": 12
+  },
+  {
+    "id": "faq-trilogy-which-part-should-i-troubleshoot-first",
+    "product": "Trilogy",
+    "category": "Setup",
+    "question": "Which part should I troubleshoot first?",
+    "answer": "Identify whether the issue is the Trilogy hardware, EyeGaze, NeuroNode or communication software, then use the linked subsystem guide.",
+    "related_route": "#/aac/trilogy/help",
+    "keywords": [],
+    "status": "published",
+    "sort_order": 13
+  },
+  {
+    "id": "faq-neurostrip-neurostrip-will-not-connect",
+    "product": "NeuroStrip",
+    "category": "Connection",
+    "question": "NeuroStrip will not connect",
+    "answer": "Wake the device, open Connections, scan/discover devices and connect the correct NeuroStrip. Check Bluetooth if the device is not found.",
+    "related_route": "#/neurostrip/help",
+    "keywords": [],
+    "status": "published",
+    "sort_order": 14
+  },
+  {
+    "id": "faq-neurostrip-neurostrip-signal-is-erratic-or-very-low",
+    "product": "NeuroStrip",
+    "category": "Signal",
+    "question": "NeuroStrip signal is erratic or very low",
+    "answer": "Check skin preparation, patch adherence, patch alignment and placement over the intended muscle. A charger/pod near-zero µV test and hard reset may be used for further troubleshooting.",
+    "related_route": "#/neurostrip/help",
+    "keywords": [],
+    "status": "published",
+    "sort_order": 15
+  },
+  {
+    "id": "faq-neurostrip-the-patch-will-not-adhere",
+    "product": "NeuroStrip",
+    "category": "Patch",
+    "question": "The patch will not adhere",
+    "answer": "Repeat skin preparation and ensure the area is fully dry before applying the patch. Keep overdressing on the tail section only.",
+    "related_route": "#/neurostrip/placement",
+    "keywords": [],
+    "status": "published",
+    "sort_order": 16
+  },
+  {
+    "id": "faq-neurostrip-how-do-i-know-neurostrip-is-charging",
+    "product": "NeuroStrip",
+    "category": "Charging",
+    "question": "How do I know NeuroStrip is charging?",
+    "answer": "Confirm the device is seated properly in the charging pod. The pod indicator flashes while charging and becomes solid when full according to the supplied charging guide.",
+    "related_route": "#/neurostrip/get-started",
+    "keywords": [],
+    "status": "published",
+    "sort_order": 17
+  }
+]

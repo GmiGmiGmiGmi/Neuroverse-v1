@@ -1,0 +1,56 @@
+[
+  {
+    "id": "uno-touch",
+    "name": "UNO Touch",
+    "description": "Simple touchscreen AAC support for Windows and iOS.",
+    "route": "#/aac/uno-touch",
+    "image_url": "assets/images/aac-uno-touch-trial.jpg",
+    "status": "published",
+    "sort_order": 1
+  },
+  {
+    "id": "eyegaze-duo",
+    "name": "EyeGaze Duo",
+    "description": "Eye gaze access, positioning and calibration support.",
+    "route": "#/aac/eyegaze-duo",
+    "image_url": "assets/images/aac-eyegaze-duo-trial.jpg",
+    "status": "published",
+    "sort_order": 2
+  },
+  {
+    "id": "neuronode",
+    "name": "NeuroNode",
+    "description": "EMG and spatial access, setup, signals and switching.",
+    "route": "#/aac/neuronode",
+    "image_url": "assets/images/neuronode-product.jpg",
+    "status": "published",
+    "sort_order": 3
+  },
+  {
+    "id": "neuronode-duo",
+    "name": "NeuroNode Duo",
+    "description": "NeuroNode access with Windows or iOS communication devices.",
+    "route": "#/aac/neuronode-duo",
+    "image_url": "assets/images/nn-duo-windows-quick.jpg",
+    "status": "published",
+    "sort_order": 4
+  },
+  {
+    "id": "trilogy",
+    "name": "NeuroNode Trilogy",
+    "description": "EyeGaze + NeuroNode + communication software in one system.",
+    "route": "#/aac/trilogy",
+    "image_url": "assets/images/nn-trilogy-windows-setup-1.jpg",
+    "status": "published",
+    "sort_order": 5
+  },
+  {
+    "id": "mounts",
+    "name": "Mounting & Positioning",
+    "description": "Table, floor and device positioning support.",
+    "route": "#/aac/mounts",
+    "image_url": "assets/images/aac-mounts-1.jpg",
+    "status": "published",
+    "sort_order": 6
+  }
+]

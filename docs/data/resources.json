@@ -1,0 +1,72 @@
+[
+  {
+    "id": "resource-neuronode-user-guide-rev-m",
+    "title": "NeuroNode User Guide — Rev M",
+    "product": "NeuroNode",
+    "type": "Manual",
+    "href": "https://controlbionics.com/wp-content/uploads/2026/05/27-3500-NeuroNode-User-Guide-Rev-M-compressed.pdf",
+    "description": "Full NeuroNode operating and advanced settings manual.",
+    "status": "published",
+    "sort_order": 1
+  },
+  {
+    "id": "resource-control-bionics-technical-support",
+    "title": "Control Bionics Technical Support",
+    "product": "All",
+    "type": "Useful Link",
+    "href": "https://www.controlbionics.com/tech-support/",
+    "description": "Official Control Bionics technical support page.",
+    "status": "published",
+    "sort_order": 2
+  },
+  {
+    "id": "resource-irisbond-manuals-guides",
+    "title": "IRISBOND Manuals & Guides",
+    "product": "EyeGaze",
+    "type": "Manual",
+    "href": "https://www.irisbond.com/en/support-service/user-manuals-and-guides/",
+    "description": "Hiru / IRISBOND setup documentation.",
+    "status": "published",
+    "sort_order": 3
+  },
+  {
+    "id": "resource-irisbond-tips-tricks",
+    "title": "IRISBOND Tips & Tricks",
+    "product": "EyeGaze",
+    "type": "Training",
+    "href": "https://www.irisbond.com/en/support-service/tips-and-tricks",
+    "description": "Additional eye gaze tips and support resources.",
+    "status": "published",
+    "sort_order": 4
+  },
+  {
+    "id": "resource-eye-gaze-settings-in-grid-3",
+    "title": "Eye gaze settings in Grid 3",
+    "product": "EyeGaze",
+    "type": "Useful Link",
+    "href": "https://hub.thinksmartbox.com/knowledgebase/eye-gaze-settings-in-grid-3",
+    "description": "Smartbox guide for Grid 3 eye gaze settings.",
+    "status": "published",
+    "sort_order": 5
+  },
+  {
+    "id": "resource-neurostrip-user-guide",
+    "title": "NeuroStrip User Guide",
+    "product": "NeuroStrip",
+    "type": "Manual",
+    "href": "assets/images/README-neurostrip.txt",
+    "description": "Placeholder for the current approved NeuroStrip User Guide PDF in your production resource library.",
+    "status": "published",
+    "sort_order": 6
+  },
+  {
+    "id": "resource-neurostrip-dysphagia-resource",
+    "title": "NeuroStrip Dysphagia Resource",
+    "product": "NeuroStrip",
+    "type": "Clinical Resource",
+    "href": "#/neurostrip/dysphagia",
+    "description": "Supplied dysphagia overview and use-case material.",
+    "status": "published",
+    "sort_order": 7
+  }
+]
