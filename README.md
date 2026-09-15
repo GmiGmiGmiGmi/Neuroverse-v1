@@ -31,3 +31,10 @@ Then open `http://localhost:8000`.
 This means GitHub Pages works immediately.
 
 Read `DEPLOYMENT_GUIDE.md` for the exact upload order.
+
+## v5.1 content-source rule
+For customer-facing product instructions, **Neuroverse page layout designs PDF is the source of truth**. Older Trial Cards/checklist drafts are not to be used as a content source. v5.1 also changes guide pages to a landscape-first layout so desktop screens use available width more effectively while remaining responsive on smaller screens.
+
+
+## v5.4 resource integration
+The Resource Library now contains curated official links grouped by provider. Device pages surface only the links relevant to that workflow. Items requested without a supplied/verified URL are shown as Link pending in local mode and are intentionally excluded from the Supabase seed until an official URL is available. Tracking query parameters have been removed from stored official URLs.
