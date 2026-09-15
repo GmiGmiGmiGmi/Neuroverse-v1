@@ -1,1 +1,1 @@
-Neuroverse v5.0 — static-first, backend-ready, provider-agnostic
+v5.5 — open visual guides + UNO image repair + EyeGaze/Oskol OS pairing
