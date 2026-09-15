@@ -85,3 +85,25 @@
   .visual-guide.reverse .visual-media,.visual-guide.reverse .visual-instructions{order:initial}
   .visual-media .guide-image{max-height:560px}
 }
+
+/* v5.6 — full-page visual guide sheets */
+.standalone-guide{
+  margin-top:18px;
+}
+.standalone-guide .guide-image{
+  display:block;
+  width:100%;
+  max-width:none;
+  max-height:none;
+  height:auto;
+  margin:0 auto;
+  object-fit:contain;
+  background:transparent;
+  border:0;
+  border-radius:0;
+  box-shadow:none;
+}
+
+/* v5.7 — continuous multi-page visual guides */
+.guide-sequence{display:grid;gap:28px}
+.guide-sequence .guide-image{display:block;width:100%;max-width:none;max-height:none;height:auto;margin:0 auto;border:0;border-radius:0;background:transparent;box-shadow:none;object-fit:contain}
