@@ -49,7 +49,7 @@ create table if not exists public.faqs (
   created_at timestamptz not null default now(), updated_at timestamptz not null default now(), published_at timestamptz
 );
 create table if not exists public.resources (
-  id text primary key, title text not null, product text not null, type text not null, href text not null, description text default '',
+  id text primary key, title text not null, product text not null, type text not null, provider text not null default 'Other', href text not null, description text default '',
   status public.content_status not null default 'draft', sort_order int not null default 0,
   created_by uuid references auth.users(id), updated_by uuid references auth.users(id),
   created_at timestamptz not null default now(), updated_at timestamptz not null default now(), published_at timestamptz
